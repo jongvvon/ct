@@ -1,2 +1,5 @@
 .vscode/tasks.json
 acmicpc/week0_Basic_Skills/1000.exe
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.gitignore
